@@ -60,8 +60,6 @@ const Benefits = ({ setSelectedPage }: Props) => {
                         get you to your ultimate fitness goals with ease. We provide true
                         care into each and every member.
                     </p>
-
-
                 </motion.div>
 
                 <motion.div
